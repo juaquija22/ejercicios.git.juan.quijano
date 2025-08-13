@@ -15,3 +15,15 @@ Reduce el estrés y la ansiedad.
 Favorece la concentración y la calma mental.
 
 Mejora la postura y la conciencia corporal.
+
+Instrucciones:
+
+Elige un espacio tranquilo y bien ventilado.
+
+Coloca la esterilla y siéntate en una postura cómoda.
+
+Realiza un calentamiento suave de cuello, hombros y cadera.
+
+Avanza por las posturas siguiendo un ritmo pausado y respiración controlada.
+
+Finaliza con ejercicios de relajación o meditación.

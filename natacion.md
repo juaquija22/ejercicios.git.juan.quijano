@@ -27,3 +27,15 @@ Mantén una respiración rítmica y controlada.
 Alterna tramos de intensidad moderada con alta para mejorar resistencia.
 
 Finaliza con estiramientos fuera del agua.
+
+Consejos y precauciones:
+
+Nadar siempre en lugares seguros y con supervisión si es posible.
+
+Usa gafas para proteger los ojos del cloro.
+
+No entrenes en exceso sin la técnica adecuada.
+
+Hidrátate antes y después de la actividad.
+
+Evita nadar inmediatamente después de comer.

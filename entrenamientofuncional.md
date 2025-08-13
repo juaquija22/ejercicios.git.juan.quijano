@@ -14,3 +14,15 @@ Desarrolla la coordinación y el equilibrio.
 Reduce el riesgo de lesiones en actividades diarias.
 
 Mejora la movilidad y la flexibilidad articular.
+
+4. Instrucciones para realizarlo:
+
+Calienta durante 5 a 10 minutos con ejercicios de movilidad articular.
+
+Realiza ejercicios multiarticulares como sentadillas, planchas y levantamientos.
+
+Utiliza tu propio peso corporal o implementos como bandas, balones y pesas.
+
+Ajusta la intensidad y el número de repeticiones a tu nivel físico.
+
+Finaliza con estiramientos para mantener la flexibilidad.

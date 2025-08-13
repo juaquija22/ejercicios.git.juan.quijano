@@ -1,9 +1,9 @@
 Titulo: Cardio
 
-Descripción:
+1. Descripción:
 El cardio es un tipo de ejercicio enfocado en mejorar la resistencia cardiovascular, quemar calorías y fortalecer el corazón y los pulmones.
 
-Beneficios:
+2. Beneficios:
 
 Mejora la salud del corazón y sistema circulatorio.
 
@@ -14,3 +14,15 @@ Incrementa la resistencia física y energía diaria.
 Reduce el estrés y mejora el estado de ánimo.
 
 Favorece la regulación del colesterol y la presión arterial.
+
+3. Instrucciones para realizarlo:
+
+Escoge una actividad cardiovascular (correr, bicicleta, saltar la cuerda, nadar).
+
+Calienta durante 5 a 10 minutos con ejercicios suaves.
+
+Mantén un ritmo constante, adaptado a tu condición física.
+
+Alterna entre fases de alta y baja intensidad si quieres más desafío.
+
+Finaliza con 5 a 10 minutos de estiramiento.

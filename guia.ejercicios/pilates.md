@@ -1,11 +1,11 @@
-titulo :
+1. titulo :
 pilates
 
-descripcion
+2. descripcion
 Descripción corta:
 El Pilates es un método de entrenamiento que combina ejercicios físicos y técnicas de respiración para fortalecer el núcleo, mejorar la postura y aumentar la flexibilidad y el control corporal.
 
-Beneficios:
+3. Beneficios:
 
 Fortalece los músculos abdominales, lumbares y de la espalda.
 
@@ -17,7 +17,7 @@ Reduce el riesgo de lesiones.
 
 Favorece la concentración y el control mental.
 
-Instrucciones para realizarlo:
+4. Instrucciones para realizarlo:
 
 Elige una superficie cómoda, como una esterilla.
 
@@ -29,7 +29,7 @@ Realiza los movimientos de forma lenta y precisa.
 
 Alterna ejercicios de suelo con el uso de implementos como pelotas o bandas.
 
-Consejos y precauciones:
+5. Consejos y precauciones:
 
 No fuerces el rango de movimiento más allá de tu flexibilidad.
 

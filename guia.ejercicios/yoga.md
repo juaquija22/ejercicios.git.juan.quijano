@@ -1,10 +1,10 @@
-titulo:
+1. titulo:
 yoga 
 
-Descripción corta:
+2. Descripción corta:
 Disciplina física y mental que combina posturas, respiración y meditación para mejorar la flexibilidad, la fuerza y el bienestar general.
 
-Beneficios:
+3. Beneficios:
 
 Mejora la flexibilidad y el equilibrio.
 
@@ -16,7 +16,7 @@ Favorece la concentración y la calma mental.
 
 Mejora la postura y la conciencia corporal.
 
-Instrucciones:
+4. Instrucciones:
 
 Elige un espacio tranquilo y bien ventilado.
 
@@ -28,7 +28,7 @@ Avanza por las posturas siguiendo un ritmo pausado y respiración controlada.
 
 Finaliza con ejercicios de relajación o meditación.
 
-Consejos:
+5. Consejos:
 
 Practica con ropa cómoda.
 

@@ -1,8 +1,8 @@
-titulo: fuerza
-Descripción corta:
+1. titulo: fuerza
+2. Descripción corta:
 El entrenamiento de fuerza consiste en realizar ejercicios que desarrollan y mejoran la potencia y resistencia de los músculos, utilizando el propio peso corporal o cargas externas.
 
-Beneficios:
+3. Beneficios:
 
 Aumenta la masa y la fuerza muscular.
 
@@ -15,7 +15,7 @@ Mejora la postura y la estabilidad corporal.
 Aumenta el rendimiento en actividades deportivas y diarias.
 
 
-Instrucciones para realizarlo:
+4. Instrucciones para realizarlo:
 
 Calienta durante 5-10 minutos antes de comenzar.
 
@@ -27,7 +27,7 @@ Descansa entre series de 30 segundos a 2 minutos según la intensidad.
 
 Mantén una técnica correcta para evitar lesiones.
 
-Consejos y precauciones:
+5. Consejos y precauciones:
 
 Comienza con cargas ligeras y aumenta progresivamente.
 

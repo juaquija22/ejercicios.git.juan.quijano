@@ -1,10 +1,10 @@
-titulo:
+1. titulo:
 natacion
 
-Descripción corta:
+2. Descripción corta:
 La natación es un deporte acuático que implica el desplazamiento en el agua mediante diferentes estilos, trabajando de forma integral el cuerpo y mejorando la resistencia cardiovascular.
 
-Beneficios:
+3. Beneficios:
 
 Mejora la capacidad pulmonar y cardiovascular.
 
@@ -16,7 +16,7 @@ Favorece la coordinación y la flexibilidad.
 
 Ayuda a reducir el estrés y mejora el bienestar mental.
 
-Instrucciones para realizarlo:
+4. Instrucciones para realizarlo:
 
 Realiza un calentamiento fuera y dentro del agua antes de nadar.
 
@@ -28,7 +28,7 @@ Alterna tramos de intensidad moderada con alta para mejorar resistencia.
 
 Finaliza con estiramientos fuera del agua.
 
-Consejos y precauciones:
+5. Consejos y precauciones:
 
 Nadar siempre en lugares seguros y con supervisión si es posible.
 

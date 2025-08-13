@@ -26,3 +26,15 @@ Realiza series y repeticiones adaptadas a tu nivel (por ejemplo, 3 series de 8-1
 Descansa entre series de 30 segundos a 2 minutos según la intensidad.
 
 Mantén una técnica correcta para evitar lesiones.
+
+Consejos y precauciones:
+
+Comienza con cargas ligeras y aumenta progresivamente.
+
+Evita entrenar el mismo grupo muscular dos días seguidos.
+
+Mantén la respiración controlada durante los movimientos.
+
+Escucha a tu cuerpo y descansa si sientes dolor.
+
+Combina fuerza con estiramientos para mantener la movilidad.

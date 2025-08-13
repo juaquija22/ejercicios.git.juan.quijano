@@ -26,4 +26,14 @@ Mantén una técnica correcta en cada movimiento para evitar lesiones.
 
 Finaliza con estiramientos y ejercicios de recuperación.
 
-5.
+5. Consejos y precauciones:
+
+Aprende la técnica de cada ejercicio antes de aumentar la intensidad.
+
+Usa calzado adecuado con buena estabilidad.
+
+Escucha a tu cuerpo y descansa si sientes dolor inusual.
+
+Mantente hidratado antes, durante y después del entrenamiento.
+
+Alterna días de alta intensidad con días de descanso o trabajo ligero.

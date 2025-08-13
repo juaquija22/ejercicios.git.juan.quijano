@@ -27,3 +27,15 @@ Realiza un calentamiento suave de cuello, hombros y cadera.
 Avanza por las posturas siguiendo un ritmo pausado y respiración controlada.
 
 Finaliza con ejercicios de relajación o meditación.
+
+Consejos:
+
+Practica con ropa cómoda.
+
+Usa una esterilla antideslizante.
+
+Empieza con sesiones guiadas.
+
+Respira profundamente en cada postura.
+
+Escucha tu cuerpo y evita forzar.

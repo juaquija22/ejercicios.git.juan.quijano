@@ -1,41 +1,46 @@
-1. titulo:
-Entrenamiento funcional
+🤸 Entrenamiento Funcional
+1️⃣ Descripción
 
-2. descripcion:
-El entrenamiento funcional se basa en realizar ejercicios que imitan movimientos de la vida cotidiana, mejorando la fuerza, el equilibrio, la coordinación y la movilidad en conjunto.
+El Entrenamiento Funcional se centra en movimientos que imitan actividades diarias, combinando fuerza, equilibrio, coordinación y resistencia. Es ideal para mejorar la condición física general y prevenir lesiones.
 
-3. beneficios:
-Mejora la postura y la estabilidad corporal.
+💪 Beneficios
 
-Aumenta la fuerza global del cuerpo.
+Mejora fuerza, equilibrio y coordinación.
 
-Desarrolla la coordinación y el equilibrio.
+Incrementa la resistencia cardiovascular y muscular.
 
-Reduce el riesgo de lesiones en actividades diarias.
+Favorece movimientos más eficientes en la vida diaria.
 
-Mejora la movilidad y la flexibilidad articular.
+Ayuda a quemar calorías y controlar el peso.
 
-4. Instrucciones para realizarlo:
+Reduce el riesgo de lesiones al fortalecer músculos estabilizadores.
 
-Calienta durante 5 a 10 minutos con ejercicios de movilidad articular.
+📝 Instrucciones para realizarlo
 
-Realiza ejercicios multiarticulares como sentadillas, planchas y levantamientos.
+Calentamiento (5-10 minutos): movilidad articular, saltos suaves o trote ligero.
 
-Utiliza tu propio peso corporal o implementos como bandas, balones y pesas.
+Circuito de ejercicios: combina movimientos como:
 
-Ajusta la intensidad y el número de repeticiones a tu nivel físico.
+Sentadillas, zancadas y step-ups.
 
-Finaliza con estiramientos para mantener la flexibilidad.
+Flexiones, planchas y mountain climbers.
 
-5. Consejos y precauciones:
+Saltos, lanzamientos y movimientos con balón medicinal.
 
-Prioriza la técnica antes que la velocidad o la carga.
+Repeticiones y rondas: ajusta según tu nivel de condición física.
 
-Usa ropa y calzado cómodos que permitan libertad de movimiento.
+Técnica: prioriza siempre la forma correcta para evitar lesiones.
 
-Evita sobrecargar músculos y articulaciones si eres principiante.
+Enfriamiento: estiramientos y respiración controlada al finalizar la sesión.
 
-Mantente hidratado durante toda la sesión.
+⚠️ Consejos y precauciones
 
-Descansa al menos un día entre entrenamientos intensos.
+Usa ropa cómoda y calzado adecuado.
 
+Mantén hidratación antes, durante y después del entrenamiento.
+
+Escucha a tu cuerpo y detente si sientes dolor o fatiga excesiva.
+
+Aumenta intensidad y peso progresivamente para evitar lesiones.
+
+Considera asesoría profesional si eres principiante.

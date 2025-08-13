@@ -21,3 +21,15 @@ Instrucciones:
 4. Lanza golpes básicos (jab, cross, hook) alternando con pasos laterales y hacia atrás.
 
 5. Mantén una respiración constante y controlada durante todo el ejercicio.
+
+Consejos y precauciones:
+
+1. Usa guantes y vendas para proteger manos y muñecas.
+
+2. Practica la técnica antes de aumentar la potencia de los golpes.
+
+3. Mantén siempre la guardia para evitar lesiones faciales.
+
+4. Hidrátate antes, durante y después del entrenamiento.
+
+5. Escucha a tu cuerpo y detente si sientes dolor o fatiga excesiva.

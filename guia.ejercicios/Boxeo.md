@@ -48,7 +48,3 @@ Mantén siempre la guardia para evitar lesiones faciales.
 Hidrátate antes, durante y después del entrenamiento.
 
 Escucha a tu cuerpo y detente si sientes dolor o fatiga excesiva.
-
-Si quieres, puedo hacer una versión aún más visual, como un flyer o cartel estilo entrenamiento, con emojis y secciones resaltadas para que sea más llamativa y fácil de seguir.
-
-¿Quieres que haga esa versión también?

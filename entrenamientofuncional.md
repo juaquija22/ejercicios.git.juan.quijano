@@ -26,3 +26,16 @@ Utiliza tu propio peso corporal o implementos como bandas, balones y pesas.
 Ajusta la intensidad y el número de repeticiones a tu nivel físico.
 
 Finaliza con estiramientos para mantener la flexibilidad.
+
+5. Consejos y precauciones:
+
+Prioriza la técnica antes que la velocidad o la carga.
+
+Usa ropa y calzado cómodos que permitan libertad de movimiento.
+
+Evita sobrecargar músculos y articulaciones si eres principiante.
+
+Mantente hidratado durante toda la sesión.
+
+Descansa al menos un día entre entrenamientos intensos.
+

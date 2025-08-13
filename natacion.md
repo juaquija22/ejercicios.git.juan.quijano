@@ -15,3 +15,15 @@ Reduce el riesgo de lesiones al ser de bajo impacto.
 Favorece la coordinación y la flexibilidad.
 
 Ayuda a reducir el estrés y mejora el bienestar mental.
+
+Instrucciones para realizarlo:
+
+Realiza un calentamiento fuera y dentro del agua antes de nadar.
+
+Elige un estilo según tu objetivo (crol, espalda, braza, mariposa).
+
+Mantén una respiración rítmica y controlada.
+
+Alterna tramos de intensidad moderada con alta para mejorar resistencia.
+
+Finaliza con estiramientos fuera del agua.

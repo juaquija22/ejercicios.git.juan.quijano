@@ -27,3 +27,15 @@ Mantén una cadencia constante y cómoda.
 Alterna entre trayectos planos y con pendiente para mayor desafío.
 
 Finaliza con pedaleo suave y estiramientos.
+
+5. Consejos y precauciones:
+
+Usa casco y elementos reflectantes si pedaleas al aire libre.
+
+Mantén la bicicleta en buen estado (frenos, llantas, cadena).
+
+Lleva hidratación suficiente para todo el recorrido.
+
+Evita sobreesfuerzos en pendientes si eres principiante.
+
+Respeta las normas de tránsito y señaliza tus movimientos.

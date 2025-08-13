@@ -15,3 +15,15 @@ Ayuda a controlar el peso corporal.
 Reduce el impacto en las articulaciones en comparación con correr.
 
 Favorece la coordinación y el equilibrio.
+
+4. Instrucciones para realizarlo:
+
+Ajusta la bicicleta a tu altura para evitar lesiones.
+
+Realiza un calentamiento suave durante 5 a 10 minutos.
+
+Mantén una cadencia constante y cómoda.
+
+Alterna entre trayectos planos y con pendiente para mayor desafío.
+
+Finaliza con pedaleo suave y estiramientos.

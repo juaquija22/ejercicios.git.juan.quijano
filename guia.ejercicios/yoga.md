@@ -1,41 +1,46 @@
-1. titulo:
-yoga 
+🧘 Yoga
+1️⃣ Descripción
 
-2. Descripción corta:
-Disciplina física y mental que combina posturas, respiración y meditación para mejorar la flexibilidad, la fuerza y el bienestar general.
+El Yoga es una práctica que combina posturas físicas, respiración y meditación, con el objetivo de mejorar la flexibilidad, fuerza, equilibrio y bienestar mental.
 
-3. Beneficios:
+💪 Beneficios
 
-Mejora la flexibilidad y el equilibrio.
+Aumenta la flexibilidad y fuerza muscular.
 
-Fortalece músculos y articulaciones.
+Mejora la postura, equilibrio y coordinación.
 
-Reduce el estrés y la ansiedad.
+Reduce el estrés y la ansiedad, promoviendo la relajación.
 
-Favorece la concentración y la calma mental.
+Favorece la respiración consciente y el control mental.
 
-Mejora la postura y la conciencia corporal.
+Contribuye a la salud general y bienestar físico y emocional.
 
-4. Instrucciones:
+📝 Instrucciones para realizarlo
 
-Elige un espacio tranquilo y bien ventilado.
+Calentamiento (5-10 minutos): movimientos suaves y respiración profunda para preparar el cuerpo.
 
-Coloca la esterilla y siéntate en una postura cómoda.
+Secuencia de posturas: combina asanas como:
 
-Realiza un calentamiento suave de cuello, hombros y cadera.
+Perro boca abajo, plancha, guerrero I y II.
 
-Avanza por las posturas siguiendo un ritmo pausado y respiración controlada.
+Posturas de equilibrio y estiramientos.
 
-Finaliza con ejercicios de relajación o meditación.
+Posturas de relajación como savasana.
 
-5. Consejos:
+Respiración: coordina respiración profunda y controlada con cada movimiento.
 
-Practica con ropa cómoda.
+Duración: mantén cada postura según tu nivel y comodidad.
 
-Usa una esterilla antideslizante.
+Enfriamiento: termina con respiración profunda y estiramientos suaves para relajar el cuerpo.
 
-Empieza con sesiones guiadas.
+⚠️ Consejos y precauciones
 
-Respira profundamente en cada postura.
+Usa ropa cómoda y flexible para permitir movimientos completos.
 
-Escucha tu cuerpo y evita forzar.
+Practica sobre una superficie segura (colchoneta de yoga).
+
+Escucha a tu cuerpo y no fuerces posturas más allá de tu capacidad.
+
+Mantente hidratado antes y después de la sesión.
+
+Si eres principiante, considera asesoría profesional para aprender la técnica correcta.

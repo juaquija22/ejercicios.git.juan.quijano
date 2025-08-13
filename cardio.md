@@ -26,3 +26,16 @@ Mantén un ritmo constante, adaptado a tu condición física.
 Alterna entre fases de alta y baja intensidad si quieres más desafío.
 
 Finaliza con 5 a 10 minutos de estiramiento.
+
+4. Consejos y precauciones:
+
+Usa calzado cómodo y adecuado para la actividad.
+
+No sobrepases tu límite de esfuerzo, especialmente si eres principiante.
+
+Mantente hidratado antes, durante y después del entrenamiento.
+
+Realiza chequeos médicos si tienes antecedentes cardíacos.
+
+Escucha a tu cuerpo y detente si sientes dolor o mareo.
+

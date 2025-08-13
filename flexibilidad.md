@@ -25,3 +25,14 @@ Respira de manera profunda y relajada durante cada postura.
 Trabaja todos los grupos musculares principales de forma equilibrada.
 
 Incrementa gradualmente la amplitud de movimiento con la práctica.
+
+5. consejos:
+No fuerces el estiramiento hasta el punto de dolor.
+
+Evita movimientos bruscos para prevenir lesiones.
+
+Mantén una técnica correcta en cada posición.
+
+Realiza estiramientos después del entrenamiento para mayor efectividad.
+
+Sé constante para ver mejoras a largo plazo.

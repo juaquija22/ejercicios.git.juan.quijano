@@ -14,3 +14,14 @@ Mejora la postura y la alineación corporal.
 Favorece la circulación sanguínea y la recuperación muscular.
 
 Ayuda a disminuir la tensión y el estrés.
+
+4. instrucciones 
+Realiza un calentamiento suave antes de los estiramientos.
+
+Mantén cada estiramiento entre 15 y 30 segundos sin rebotes.
+
+Respira de manera profunda y relajada durante cada postura.
+
+Trabaja todos los grupos musculares principales de forma equilibrada.
+
+Incrementa gradualmente la amplitud de movimiento con la práctica.

@@ -28,3 +28,15 @@ Mantén el abdomen contraído durante los ejercicios.
 Realiza los movimientos de forma lenta y precisa.
 
 Alterna ejercicios de suelo con el uso de implementos como pelotas o bandas.
+
+Consejos y precauciones:
+
+No fuerces el rango de movimiento más allá de tu flexibilidad.
+
+Mantén siempre la alineación correcta de la columna.
+
+Realiza los ejercicios sin prisa para evitar lesiones.
+
+Consulta a un profesional si tienes problemas de espalda o articulaciones.
+
+Sé constante, la progresión es clave para obtener resultados.
